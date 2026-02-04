@@ -38,7 +38,7 @@ This project investigates:
 - Positional uncertainty modeling  
 
 ### **2.3 Analysis Layer**
-- Multi‑source GNSS correlation  
+- Multi‑source SNSS correlation  
 - Atmospheric influence modeling  
 - Drift & deviation analysis  
 - Research‑grade visualization outputs  
@@ -77,7 +77,7 @@ This project follows the Systemheda reliability doctrine:
 ## 📁 5. Repository Structure
 
 ```txt
-GNSS-Navigation-Ecosystem/
+SNSS-Navigation-Ecosystem/
 │
 ├── /docs
 │   ├── snss-models.md
