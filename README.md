@@ -1,12 +1,12 @@
-# 🛰️ GNSS-Navigation-Ecosystem
+# 🛰️ SNSS-Navigation-Ecosystem
 ### Research‑Focused Framework for Modeling & Analyzing Satellite Navigation Behavior
 
-The GNSS Navigation Ecosystem is a **research‑driven analytical framework** designed to study, model and interpret the behavior of satellite‑based navigation systems.  
+The SNSS Navigation Ecosystem is a **research‑driven analytical framework** designed to study, model and interpret the behavior of satellite‑based navigation systems.  
 This project is part of the **Systemheda Autonomous Systems Framework (ASF)**.
 
 > ⚠️ **Notice**  
 > This repository contains *research‑only*, *non‑operational* and *non‑military* material.  
-> No real GNSS manipulation, spoofing, or operational navigation code is included.  
+> No real SNSS manipulation, spoofing, or operational navigation code is included.  
 > All content is conceptual, analytical and educational.
 
 ---
@@ -14,10 +14,10 @@ This project is part of the **Systemheda Autonomous Systems Framework (ASF)**.
 ## 🎯 1. Purpose
 This project investigates:
 
-- How GNSS signals behave under **environmental and atmospheric variability**  
+- How SNSS signals behave under **environmental and atmospheric variability**  
 - How multi‑constellation data can be **structured and analyzed**  
 - How positional uncertainty can be **modeled and visualized**  
-- How GNSS datasets can support **simulation and research**  
+- How SNSS datasets can support **simulation and research**  
 
 این پروژه صرفاً برای **تحلیل، مدل‌سازی و مطالعهٔ علمی** طراحی شده است.
 
@@ -80,7 +80,7 @@ This project follows the Systemheda reliability doctrine:
 GNSS-Navigation-Ecosystem/
 │
 ├── /docs
-│   ├── gnss-models.md
+│   ├── snss-models.md
 │   ├── data-schema.md
 │   └── simulation-guide.md
 │
@@ -102,7 +102,7 @@ GNSS-Navigation-Ecosystem/
 
 ## 🧪 6. Research Use Cases
 
-- Studying GNSS signal behavior  
+- Studying SNSS signal behavior  
 - Modeling positional uncertainty  
 - Building multi‑constellation datasets  
 - Testing data integrity under environmental variability  
@@ -112,7 +112,7 @@ GNSS-Navigation-Ecosystem/
 
 ## 🏷️ 7. Tags
 `txt
-gnss
+snss
 satellite-navigation
 research-framework
 systemheda
